@@ -55,7 +55,7 @@
 
 ---
 
-## 第二章 你的资质适合转码吗？
+## 第二章 你的资质适合转码吗？请完成如下测试
 
 学完Python和数据结构后，请尝试独立完成以下Leetcode题目：
 1. No.1 Two Sum [https://leetcode.com/problems/two-sum/](https://leetcode.com/problems/two-sum/)
