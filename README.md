@@ -1,5 +1,7 @@
 # 立党的转码/润学/移民/找工作笔记
 
+Github Page只读版：[https://lidangzzz.github.io/How-to-run/](https://lidangzzz.github.io/How-to-run/)
+
 ## 第一章 零基础转码篇
 
 1. 你的第一门编程语言，Python。Coursera上的Python for Everbody （UMich）：[https://www.coursera.org/learn/python?specialization=python](https://www.coursera.org/learn/python?specialization=python)
