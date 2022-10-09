@@ -29,37 +29,37 @@ Github Page只读版：[https://lidangzzz.github.io/How-to-run/](https://lidangz
         2. Jetbrains全家桶使用指南（IDEA、PyCharm、WebStorm等）：[https://www.jetbrains.com/help/](https://www.jetbrains.com/help/) 
         3. Visual Studio入门教程：[https://visualstudio.microsoft.com/vs/getting-started/](https://visualstudio.microsoft.com/vs/getting-started/) 
     3. Markdown文档基本语法：[https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) 
-    4. Linux command line tools手册：[https://www.freecodecamp.org/news/the-linux-commands-handbook/](https://www.freecodecamp.org/news/the-linux-commands-handbook/) 
-6. 面试：
-    1. 初级版 Cracking the Coding Interview，北美码农面试经典入门圣经：
-        1. 纸质版（请尽量购买正版）：[https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/0984782850](https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/0984782850)
-        2. 电子版（请勿用于商用并遵守版权法律）：[https://github.com/Avinash987/Coding/blob/master/Cracking-the-Coding-Interview-6th-Edition-189-Programming-Questions-and-Solutions.pdf](https://github.com/Avinash987/Coding/blob/master/Cracking-the-Coding-Interview-6th-Edition-189-Programming-Questions-and-Solutions.pdf)
-    2. Leetcode，所有古今中外大小厂的算法题都在这里，至少30道，上不封顶：[https://leetcode.com/explore/](https://leetcode.com/explore/)
-7. 以下是完整的Computer Science基础课，时间充裕的前提下，建议完整学一遍：
+    4. Linux command line tools手册：[https://www.freecodecamp.org/news/the-linux-commands-handbook/](https://www.freecodecamp.org/news/the-linux-commands-handbook/)
+   6. 面試：
+    1. 初級版 Cracking the Coding Interview，北美碼農面試經典入門聖經：
+        1. 紙質版（請儘量購買正版）：[https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/0984782850](https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/0984782850)
+        2. 電子版（請勿用於商用並遵守版權法律）：[https://github.com/Avinash987/Coding/blob/master/Cracking-the-Coding-Interview-6th-Edition-189-Programming-Questions-and-Solutions.pdf](https://github.com/Avinash987/Coding/blob/master/Cracking-the-Coding-Interview-6th-Edition-189-Programming-Questions-and-Solutions.pdf)
+    2. Leetcode，所有古今中外大小廠的演算法題都在這裡，至少30道，上不封頂：[https://leetcode.com/explore/](https://leetcode.com/explore/)
+7. 以下是完整的Computer Science基礎課，時間充裕的前提下，建議完整學一遍：
     1. UC Berkeley CS 61A. The Structure and Interpretation of Computer Programs：[https://www.youtube.com/channel/UCuteugW6eO65Awk83I6ehoA/playlists](https://www.youtube.com/channel/UCuteugW6eO65Awk83I6ehoA/playlists)
     2. UC Berkeley CS61B. Data Structures：[https://www.youtube.com/watch?v=h59h5DoNhL4&list=PLgNUCz66KaWRSVzIeT_qB2yBgHocLmRWI](https://www.youtube.com/watch?v=h59h5DoNhL4&list=PLgNUCz66KaWRSVzIeT_qB2yBgHocLmRWI)
-8. Machine Learning, Deep Learning, Data Science（感兴趣可以学习，但不建议作为零基础转码方向）：
+8. Machine Learning, Deep Learning, Data Science（感興趣可以學習，但不建議作為零基礎轉碼方向）：
     1. Machine Learning by Andrew Ng: [https://www.coursera.org/specializations/machine-learning-introduction](https://www.coursera.org/specializations/machine-learning-introduction) 
     2. Deep Learning by Andrew Ng: [https://www.coursera.org/specializations/deep-learning#courses](https://www.coursera.org/specializations/deep-learning#courses)
     3. IBM Data Science: [https://www.coursera.org/professional-certificates/ibm-data-science#courses](https://www.coursera.org/professional-certificates/ibm-data-science#courses) 
-9. 美国最便宜的正规名校Online CS Master项目 Gatech Online CS Master：
-    1. 优势：顶级名校、正规Master学位、全美最便宜 $9000；
-    2. 缺点：远程、没有CPT/OPT（无法工作实习），适合已经有绿卡、可L1 transfer或者在国内转码刷学历；
+9. 美國最便宜的正規名校Online CS Master項目 Gatech Online CS Master：
+    1. 優勢：頂級名校、正規Master學位、全美最便宜 $9000；
+    2. 缺點：遠端、沒有CPT/OPT（無法工作實習），適合已經有綠卡、可L1 transfer或者在國內轉碼刷學歷；
     3. 地址 [https://omscs.gatech.edu/](https://omscs.gatech.edu/)
-10. 不计成本地肉身到硅谷转码 NEU CS Align Master in Computer Science： 
-    1. 优势：顶级名校、正规Master、自带co-op实习，肉身在硅谷到处开车面试，门槛低，不需要Computer Science本科学位，转码国际学生刷题找工氛围浓厚；
-    2. 缺点：贵（学费预算 $70000）
+10. 不計成本地肉身到矽谷轉碼 NEU CS Align Master in Computer Science： 
+    1. 優勢：頂級名校、正規Master、自帶co-op實習，肉身在矽谷到處開車面試，門檻低，不需要Computer Science本科學位，轉碼國際學生刷題找工氛圍濃厚；
+    2. 缺點：貴（學費預算 $70000）
     3. 地址：[https://www.khoury.northeastern.edu/programs/align-masters-of-science-in-computer-science/](https://www.khoury.northeastern.edu/programs/align-masters-of-science-in-computer-science/)
-11. 讨论与求助：
-    1. Telegram（讨论）：[https://t.me/lidang](https://t.me/lidang) 
-    2. Discord（求助、答疑、资源共享等）：[https://discord.com/invite/kCdnP3w49E](https://discord.com/invite/kCdnP3w49E) 
-    3. 立党Twitter： [https://twitter.com/lidangzzz](https://twitter.com/lidangzzz)
+11. 討論與求助：
+    1. Telegram（討論）：[https://t.me/lidang](https://t.me/lidang) 
+    2. Discord（求助、答疑、資源共享等）：[https://discord.com/invite/kCdnP3w49E](https://discord.com/invite/kCdnP3w49E) 
+    3. 立黨Twitter： [https://twitter.com/lidangzzz](https://twitter.com/lidangzzz)
 
 ---
 
-## 第二章 你的资质适合转码吗？请完成如下测试
+## 第二章 你的資質適合轉碼嗎？請完成如下測試
 
-学完Python和数据结构后，请尝试独立完成以下Leetcode题目：
+學完Python和資料結構後，請嘗試獨立完成以下Leetcode題目：
 1. No.1 Two Sum [https://leetcode.com/problems/two-sum/](https://leetcode.com/problems/two-sum/)
 2. No.9 Palindrome Number [https://leetcode.com/problems/palindrome-number/](https://leetcode.com/problems/palindrome-number/)
 3. No.21 Merge Two Sorted Lists [https://leetcode.com/problems/merge-two-sorted-lists/](https://leetcode.com/problems/merge-two-sorted-lists/)
@@ -73,4 +73,4 @@ Github Page只读版：[https://lidangzzz.github.io/How-to-run/](https://lidangz
 11. No.334 Reverse String [https://leetcode.com/problems/reverse-string/](https://leetcode.com/problems/reverse-string/)
 
 
-如果以上11道题目可以做对，或者看答案后可以正确理解，关掉答案后能够正确回答———恭喜你，你具备转码的潜质和资质，可以正式认真考虑从零基础转码了（着手申请硕士项目、开始系统从零自学Computer Science的所有基础课程）！
+如果以上11道題目可以做對，或者看答案後可以正確理解，關掉答案後能夠正確回答———恭喜你，你具備轉碼的潛質和資質，可以正式認真考慮從零基礎轉碼了（著手申請碩士項目、開始系統從零自學Computer Science的所有基礎課程）！
