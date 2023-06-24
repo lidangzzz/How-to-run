@@ -45,10 +45,9 @@ Github Page只读版：[https://lidangzzz.github.io/How-to-run/](https://lidangz
 9. 美国最便宜的正规名校Online CS Master项目 GeorgiaTech/UIUC/UT-Austin Online CS Master：
     1. 优势：顶级名校、正规Master学位、全美最便宜 $9000；
     2. 缺点：远程、没有CPT/OPT（无法工作实习），适合已经有绿卡、可L1 transfer或者在国内转码刷学历；
-    3. 地址：
-        3.1 Georgia Tech [https://omscs.gatech.edu/](https://omscs.gatech.edu/)
-        3.2 UIUC [https://cs.illinois.edu/academics/graduate/professional-mcs/online-master-computer-science](https://cs.illinois.edu/academics/graduate/professional-mcs/online-master-computer-science)
-        3.3 UT-Austin [https://www.cs.utexas.edu/graduate-program/masters-program/msonline](https://www.cs.utexas.edu/graduate-program/masters-program/msonline)
+    3. Georgia Tech Online CS Master 项目官网 [https://omscs.gatech.edu/](https://omscs.gatech.edu/)
+    4. UIUC Online CS Master 项目官网 [https://cs.illinois.edu/academics/graduate/professional-mcs/online-master-computer-science](https://cs.illinois.edu/academics/graduate/professional-mcs/online-master-computer-science)
+    5. UT-Austin Online CS Master 项目官网 [https://www.cs.utexas.edu/graduate-program/masters-program/msonline](https://www.cs.utexas.edu/graduate-program/masters-program/msonline)
 10. 不计成本地肉身到硅谷转码 NEU CS Align Master in Computer Science： 
     1. 优势：顶级名校、正规Master、自带co-op实习，肉身在硅谷到处开车面试，门槛低，不需要Computer Science本科学位，转码国际学生刷题找工氛围浓厚；
     2. 缺点：贵（学费预算 $70000）
