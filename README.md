@@ -1,4 +1,4 @@
-# 立党的转码/润学/移民/找工作笔记
+# 立党零基础转码笔记
 
 Github Page只读版：[https://lidangzzz.github.io/How-to-run/](https://lidangzzz.github.io/How-to-run/)
 
